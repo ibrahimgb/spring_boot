@@ -25,8 +25,7 @@ public class DemoApplication {
 						1L ,
 						"ibrahim" ,
 						"ibrahim@gmail.com",
-						LocalDate.of(2000,04 , 25),
-						22
+						LocalDate.of(2000,04 , 25)
 
 				)
 		);
